@@ -6,11 +6,11 @@
 
 # Por que yo? 🤝
 
-- Enfoque Personalizado: Cada proyecto es tratado de manera única, con atención y cuidado, para asegurar resultados excepcionales que se adapten perfectamente a tus necesidades individuales.
+- *Enfoque Personalizado*: Cada proyecto es tratado de manera única, con atención y cuidado, para asegurar resultados excepcionales que se adapten perfectamente a tus necesidades individuales.
 
-- Innovación Constante: Me mantengo siempre al tanto de las últimas tendencias tecnológicas, pero también estoy atento a tus ideas y necesidades personales, buscando constantemente nuevas formas de ofrecerte soluciones innovadoras y personalizadas.
+- *Innovación Constante*: Me mantengo siempre al tanto de las últimas tendencias tecnológicas, pero también estoy atento a tus ideas y necesidades personales, buscando constantemente nuevas formas de ofrecerte soluciones innovadoras y personalizadas.
 
-- Compromiso con la Calidad: Mi compromiso es proporcionarte la mejor experiencia posible, priorizando tanto la excelencia técnica como tu satisfacción personal en cada paso del proceso.
+- *Compromiso con la Calidad*: Mi compromiso es proporcionarte la mejor experiencia posible, priorizando tanto la excelencia técnica como tu satisfacción personal en cada paso del proceso.
 
 # Conocimientos tecnicos ⚙
 
