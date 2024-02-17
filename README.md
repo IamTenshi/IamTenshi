@@ -4,7 +4,7 @@
 
 # Quien soy? ❤
 
-Soy un estudiante de Ciencias de la Computacion con experiencia en el desarrollo web freelancer desde [Fiverr](https://es.fiverr.com/angeljimenezabr), lo que me ha dado la oportunidad de entretarme a diversos retos en varios proyectos web de diversos tipo como [Padelchiquito.com](https://www.padelchiquito.com) en el que hice toda la parte del frontend, en 2024 a mis 18 años inicie un equipo de desarrollo de software en el cual sigo activo llamado [TenBeltz](https://tenbeltz.com) gracias al cual he participado, desarrollado y dirigido decenas de proyectos de todo tipo, haciendo enfasis en el desarrollo de herramientas empresariales y landing pages para negocios
+Soy un estudiante de Ciencias de la Computacion con experiencia en el desarrollo web freelancer desde [Fiverr](https://es.fiverr.com/angeljimenezabr), lo que me ha dado la oportunidad de entretarme a diversos retos en varios proyectos web de diversos tipo como [padelchiquito.com](https://www.padelchiquito.com) en el que hice toda la parte del frontend, en 2024 a mis 18 años inicie un equipo de desarrollo de software en el cual sigo activo llamado [TenBeltz](https://tenbeltz.com) gracias al cual he participado, desarrollado y dirigido decenas de proyectos de todo tipo, haciendo enfasis en el desarrollo de herramientas empresariales y landing pages para negocios
 
 # Conocimientos tecnicos ⚙
 
