@@ -4,14 +4,6 @@
 
 # Quien soy? ❤
 
-# Por que yo? 🤝
-
-1. **Enfoque Personalizado**: Cada proyecto es tratado de manera única, con atención y cuidado, para asegurar resultados excepcionales que se adapten perfectamente a tus necesidades individuales.
-
-2. **Innovación Constante**: Me mantengo siempre al tanto de las últimas tendencias tecnológicas, pero también estoy atento a tus ideas y necesidades personales, buscando constantemente nuevas formas de ofrecerte soluciones innovadoras y personalizadas.
-
-3. **Compromiso con la Calidad**: Mi compromiso es proporcionarte la mejor experiencia posible, priorizando tanto la excelencia técnica como tu satisfacción personal en cada paso del proceso.
-
 # Conocimientos tecnicos ⚙
 
 - <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="HTML Logo" width="20"/> HTML
@@ -22,6 +14,14 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/768px-React.svg.png" alt="Tailwind CSS Logo" width="20"/> React
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="20"/> Python
 - <img src="https://download.logo.wine/logo/Django_(web_framework)/Django_(web_framework)-Logo.wine.png" alt="Django Logo" width="20"/> Django
+
+# Por que yo? 🤝
+
+1. **Enfoque Personalizado**: Cada proyecto es tratado de manera única, con atención y cuidado, para asegurar resultados excepcionales que se adapten perfectamente a tus necesidades individuales.
+
+2. **Innovación Constante**: Me mantengo siempre al tanto de las últimas tendencias tecnológicas, pero también estoy atento a tus ideas y necesidades personales, buscando constantemente nuevas formas de ofrecerte soluciones innovadoras y personalizadas.
+
+3. **Compromiso con la Calidad**: Mi compromiso es proporcionarte la mejor experiencia posible, priorizando tanto la excelencia técnica como tu satisfacción personal en cada paso del proceso.
 
 # Especialidad 🎯
 
