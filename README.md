@@ -15,6 +15,7 @@ Estudiante de Ciencias de la Computación con experiencia en el desarrollo web f
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS Logo" width="20"/> Tailwind CSS
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js Logo" width="20"/> Node.js
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/768px-React.svg.png" alt="React.js Logo" width="20"/> React
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Astro.svg/375px-Astro.svg.png" alt="React.js Logo" width="20"/> Astro
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="20"/> Python
 - <img src="https://download.logo.wine/logo/Django_(web_framework)/Django_(web_framework)-Logo.wine.png" alt="Django Logo" width="20"/> Django
 
