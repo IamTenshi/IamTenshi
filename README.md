@@ -1,6 +1,6 @@
 # Web and Mobile Developer 💻
 
-Hello! My name is Ángel, and I specialize in software development, focusing on creating unique and seamless web and mobile experiences from the client side. My approach centers on ensuring an exceptional user experience. Passion, discipline, and determination are the pillars of my work!
+Hello! My name is Angel, and I specialize in software development, focusing on creating unique and seamless web and mobile experiences from the client side. My approach centers on ensuring an exceptional user experience. Passion, discipline, and determination are the pillars of my work!
 
 # Who am I? ❤
 
